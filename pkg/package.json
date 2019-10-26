@@ -1,0 +1,21 @@
+{
+  "name": "seventeen-piano",
+  "collaborators": [
+    "finegeometer <finegeometer@gmail.com>"
+  ],
+  "description": "Seventeen tone (per octave) piano",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finegeometer/seventeen-piano"
+  },
+  "files": [
+    "seventeen_piano_bg.wasm",
+    "seventeen_piano.js",
+    "seventeen_piano.d.ts"
+  ],
+  "module": "seventeen_piano.js",
+  "types": "seventeen_piano.d.ts",
+  "sideEffects": "false"
+}
